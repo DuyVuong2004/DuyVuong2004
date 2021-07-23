@@ -11,7 +11,7 @@
 
 # 🛠 Tech Stack
 
-- 💻 &nbsp; TypeScript | JavaScript | HTML | CSS
+- 💻 &nbsp; TypeScript | JavaScript | HTML | CSS | PHP
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Adobe Photoshop | After Effect
 
