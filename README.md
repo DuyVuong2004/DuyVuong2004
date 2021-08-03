@@ -24,7 +24,7 @@ Tớ hiện tại đang học ở trường **THPT🎒** và tớ đang làm vi�
 - Thích xem những phim máu me
 - Hòa đồng vui vẻ cùng mọi người
 - Thích những người bạn thân hiện tại
-- Thích coder dạo và khám phá,tò mò những điều thú vị
+- Thích coder dạo và khám phá, tò mò những điều thú vị
 
 **Liên hệ với tớ**
 
