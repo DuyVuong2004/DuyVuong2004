@@ -5,7 +5,7 @@ Tớ tên là Trần Đức Duy được mọi người biết đến với cái
 
 Tớ hiện tại đang học ở trường **THPT🎒** và tớ đang làm việc ở [Facebook](https://www.facebook.com/binky.congchua)
 <p align="center">
-    <img align="center" alt="GIF" src="https://i.imgur.com/NBiXjNp.gif" />
+    <img align="center" alt="GIF" src="https://i.ibb.co/f9gXV9Y/121d65204f6ee2946269709627b2cbb0.gif" />
 </p> 
 
 **Giới thiệu về tớ**
