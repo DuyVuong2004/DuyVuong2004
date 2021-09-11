@@ -32,4 +32,4 @@ Tớ hiện tại đang học ở trường **THPT🎒** và tớ đang làm vi�
 - 💻Youtube : **[Duy Vương](https://www.youtube.com/channel/UCtjd3qiZ54O7yxvbVJAmFcQ)**
 - 💻Gmail : **[tranducduyne.gmail](https://gmail.com)**
 - 💻Github : **[ProDuyVuong](https://github.com/ProDuyVuong)**
-- 💻Website : **[dev.duyvuong.tk](http://dev.duyvuong.tk)**
+- 💻Website : **[dev.duyvuongpr0ject.tk](https://www.dev.duyvuongpr0ject.tk)**
