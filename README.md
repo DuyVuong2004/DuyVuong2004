@@ -27,7 +27,6 @@ Tớ hiện tại đang học ở trường **THPT🎒** và tớ đang làm vi�
 
 <p align="center">
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-<img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" /><br><br>
 </p>
 
 **Các sở thích của tớ**
