@@ -17,6 +17,10 @@ Tớ hiện tại đang học ở trường **THPT🎒** và tớ đang làm vi�
 - 💐 Tính cách : hơi **trầm lặng**, **nhạt nhẽo**, đôi lúc cũng hay **giỡn đùa** cùng các bạn trong nhóm
 - 🌙 Tớ hiện tại đang sinh sống tại **Nam Định** và coder cho [MiraiPr0ject](https://github.com/miraiPr0ject/miraiv2) - [KB2ABOT](https://github.com/kb2ateam/kb2abot) - [C3CBOT](https://github.com/c3cbot/c3c-0x)
 
+** GitHub Stats **
+<p align="center">
+    <img align="center" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=ProDuyVuong&show_icons=true&theme=nightowl" />
+</p> 
 **Các sở thích của tớ**
 
 - Thích nghe nhạc vào ban đêm
