@@ -1,6 +1,6 @@
 
 
-<h1> Xin chào <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h1> 
+<h1 align="center"> Xin chào <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h1> 
 Tớ tên là Trần Đức Duy được mọi người biết đến với cái biệt danh DuyVuong
 
 Tớ hiện tại đang học ở trường **THPT🎒** và tớ đang làm việc ở [Facebook](https://www.facebook.com/binky.congchua)
