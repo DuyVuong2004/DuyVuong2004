@@ -20,7 +20,7 @@ Tớ hiện tại đang học ở trường **THPT🎒** và tớ đang làm vi�
 **GitHub Stats**
 
 <p align="center">
-    <img align="center" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=ProDuyVuong&show_icons=true&theme=nightowl" />
+    <img align="center" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=DuyVuongDeveloper&show_icons=true&theme=nightowl" />
 </p> 
 
 **Ngôn Ngữ Coder**
