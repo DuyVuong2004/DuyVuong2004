@@ -43,5 +43,5 @@ Tớ hiện tại đang học ở trường **THPT🎒** và tớ đang làm vi�
 - 💻Faceebok : **[Trần Đức Duy](https://www.facebook.com/binky.congchua)**
 - 💻Youtube : **[Duy Vương](https://www.youtube.com/channel/UCtjd3qiZ54O7yxvbVJAmFcQ)**
 - 💻Gmail : **[tranducduyne.gmail](https://gmail.com)**
-- 💻Github : **[ProDuyVuong](https://github.com/ProDuyVuong)**
+- 💻Github : **[DuyVuongDeveloper](https://github.com/DuyVuongDeveloper)**
 - 💻Website : **[dev.duyvuongpr0ject.tk](https://www.dev.duyvuongpr0ject.tk)**
