@@ -20,14 +20,8 @@ Tớ hiện tại đang học ở trường **THPT🎒** và tớ đang làm vi�
 **GitHub Stats**
 
 <p align="center">
-    <img align="center" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=DuyVuongDeveloper&show_icons=true&theme=nightowl" />
+    <img align="center" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=DuyVuongDev&show_icons=true&theme=nightowl" />
 </p> 
-
-**Ngôn Ngữ Coder**
-
-<p align="center">
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-</p>
 
 **Các sở thích của tớ**
 
