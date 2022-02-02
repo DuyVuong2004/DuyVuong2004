@@ -1,5 +1,5 @@
 
-
+/*
 <h1 align="center"> Xin chào <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h1> 
 Tớ tên là Trần Đức Duy được mọi người biết đến với cái biệt danh DuyVuong
 
@@ -39,3 +39,5 @@ Tớ hiện tại đang học ở trường **THPT🎒** và tớ đang làm vi�
 - 💻Gmail : **[tranducduyne.gmail](https://gmail.com)**
 - 💻Github : **[DuyVuongDeveloper](https://github.com/DuyVuongDeveloper)**
 - 💻Website : **[dev.duyvuongpr0ject.tk](https://www.dev.duyvuongpr0ject.tk)**
+*/
+Hello
