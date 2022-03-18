@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="https://i.pinimg.com/originals/05/6c/58/056c584d9335fcabf080ca43e583e3c4.gif" width="1200" alt="Click to see the source" />
+  <img src="https://i.pinimg.com/originals/05/6c/58/056c584d9335fcabf080ca43e583e3c4.gif" alt="Click to see the source" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
