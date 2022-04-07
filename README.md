@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="https://i.pinimg.com/originals/57/49/db/5749dbc0f74fdc80e2b04a52fc9585e8.gif" width="1200" alt="Click to see the source" />
+  <img src="https://cardivo.vercel.app/api?name=SimperLord&description=Yeu em vai lon ma em deo biet&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F87187870%3Fv%3D4&usqp=CAU&backgroundColor=%23ecf0f1&github=SimperLord&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://www.github.com/SimperLord&fbclid=IwAR3CxuJ2NE1_TXlcWpY2UIYBUhQHi1ttfmFXl8qFutmoNl3hEHDa-orBw8c" width="1200" alt="Click to see the source" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
