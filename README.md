@@ -81,7 +81,9 @@
 <h2 align="center">🎮Generates a snake game from a github user contributions graph🎮</h2>
 <br>
 <div align="center">
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+  
+![Quote](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+ 
 </div>
 <!-- 
 <h2 align="center">📑 Random Quotes 📑</h2>
